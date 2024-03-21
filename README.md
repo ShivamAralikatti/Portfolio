@@ -27,6 +27,6 @@ This repository contains the source code for my personal portfolio website. The 
 
 ## Visit My Portfolio
 
-shivamaralikatti@gmail.com
+https://shivamaralikatti.netlify.app/
 
 Feel free to explore and get in touch!
